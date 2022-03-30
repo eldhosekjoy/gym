@@ -8,7 +8,7 @@ namespace GymStore.Models
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
-        public string Description { get; set; }
+        //public string Description { get; set; }
         [Required]
         public int DisplayOrder { get; set; }
     }
