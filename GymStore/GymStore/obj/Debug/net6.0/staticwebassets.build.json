@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wtyYL49ZkGL4D4WJ1/1FrXJEYUJOjwWDJZ1C3BfSL2E=",
+  "Hash": "lWTMjcCmv+TGvFuwlOUuI9+ZGnOWGX9+EEI5HeRZkE4=",
   "Source": "GymStore",
   "BasePath": "_content/GymStore",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\E\\PROJECTS\\WEB\\DotNetCoreRazor\\GymEquipmentsOnlineStore\\GymStore\\GymStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GymStore.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\E\\PROJECTS\\WEB\\DotNetCoreRazor\\GymEquipmentsOnlineStore\\GymStore\\GymStore\\wwwroot\\css\\Bootswatch_solar.css",
+      "SourceId": "GymStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\E\\PROJECTS\\WEB\\DotNetCoreRazor\\GymEquipmentsOnlineStore\\GymStore\\GymStore\\wwwroot\\",
+      "BasePath": "_content/GymStore",
+      "RelativePath": "css/Bootswatch_solar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Bootswatch_solar.css"
     },
     {
       "Identity": "C:\\E\\PROJECTS\\WEB\\DotNetCoreRazor\\GymEquipmentsOnlineStore\\GymStore\\GymStore\\wwwroot\\css\\site.css",
