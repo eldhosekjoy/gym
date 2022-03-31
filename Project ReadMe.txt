@@ -7,4 +7,10 @@ HOT RELEAD IN Previous Versions
 For DB Migration
 1. Add pAckage Microsoft.EntityframeworkCore.Tools
 
+Theme used is
+1. Bootswatch.com
+
+Toaster message used is
+1. Toaster.js
+
 
